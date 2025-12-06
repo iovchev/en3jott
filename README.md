@@ -39,9 +39,9 @@
    <p>
     <b>Social links:</b>
    </p>
-   <code><a href="https://www.linkedin.com/in/en3jott/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
-   <code><a href="https://www.instagram.com/en3jott/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
-   <code><a href="https://t.me/enejott"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></code>
+   <code><a href="https://www.linkedin.com/in/iovchev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
+   <code><a href="https://www.instagram.com/iovch3v/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
+   <code><a href="https://t.me/iovch3v"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></code>
   </div>
   <p align="right">
    <img width="200px" src="night.gif" alt="qr"/>
