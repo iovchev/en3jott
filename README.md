@@ -1,5 +1,5 @@
 <samp>
-<h1 align="center">Hi there 👋, I'm Jhon</h1>
+<h1 align="center">Hi there 👋, I'm John</h1>
 <div align="center">
   <p align="">I am a web developer with a passion and experience in building quality and intuitive web applications. My work experience spans several years, during which I have deepened my knowledge of HTML, CSS and JavaScript. I also have experience with various frameworks and libraries such as React.js, TailwindCSS etc.
   </p>
